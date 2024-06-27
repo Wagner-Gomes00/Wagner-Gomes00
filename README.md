@@ -19,5 +19,11 @@
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Wagner-Gomes00/Wagner-Gomes00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Wagner-Gomes00/Wagner-Gomes00/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Wagner-Gomes00/Wagner-Gomes00/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
