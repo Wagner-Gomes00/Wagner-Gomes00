@@ -1,5 +1,5 @@
 <h2 align="left">Olá!👋 Meu nome é Wagner.</h2>
-<h2>Este é um espaço onde compartilho minhas ideias, projetos e experimentos na área de tecnologia.</h2>
+<h2>Este é um espaço onde compartilho minhas ideias, projetos e experimentos.</h2>
 
 ###
 
